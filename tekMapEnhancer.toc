@@ -1,0 +1,8 @@
+## Interface: 20100
+## Title: tekMapEnhancer
+## Notes: Fulscreen map sucks!
+## Author: Tekkub Stoutwrithe
+## Version: Alpha
+
+tekMapEnhancer.lua
+
