@@ -4,5 +4,8 @@
 ## Author: Tekkub Stoutwrithe
 ## Version: Alpha
 
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
 tekMapEnhancer.lua
 
