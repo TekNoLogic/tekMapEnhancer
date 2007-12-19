@@ -4,4 +4,3 @@ hooksecurefunc(WorldMapFrame, "Show", function(self)
 	self:EnableKeyboard(false)
 	BlackoutWorld:Hide()
 end)
-MiniMapBattlefieldFrame.status = "active"
