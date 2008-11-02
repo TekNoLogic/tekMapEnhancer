@@ -1,0 +1,11 @@
+tekMapEnhancer is a tiny addon designed to make the WorldMap a bit better.  It does a few things:
+
+* Scale down the map a bit
+* Remove the "blackout" behind the map so you can interact with the world
+* Allow you to use the chat editbox while the map is open
+
+h2. Links
+
+<b>Visit "my site":http://www.tekkub.net/addons/tekMapEnhancer for more info.<br>
+Please report all bugs and feature requests to my "Google Code":http://code.google.com/p/tekkub-wow/issues/list?can=1&q=addon:tekMapEnhancer&sort=status+milestone&colspec=ID%20Type%20Status%20Addon%20Milestone%20Summary tracker<br>
+Please direct all feedback and questions to my "Google Groups":http://groups-beta.google.com/group/tekkub-wow mailinglist.</b>
