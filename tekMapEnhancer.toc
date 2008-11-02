@@ -1,6 +1,6 @@
 ## Interface: 20400
 ## Title: tekMapEnhancer
-## Notes: Fulscreen map sucks!
+## Notes: Fullscreen map sucks!
 ## Author: Tekkub Stoutwrithe
 ## Version: Alpha
 
