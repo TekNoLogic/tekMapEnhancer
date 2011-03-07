@@ -2,6 +2,6 @@
 hooksecurefunc(WorldMapFrame, "Show", function(self)
 	self:SetScale(0.75)
 	self:EnableKeyboard(false)
+	self:EnableMouse(false)
 	BlackoutWorld:Hide()
-	WorldMapFrame:EnableMouse(false)
 end)
