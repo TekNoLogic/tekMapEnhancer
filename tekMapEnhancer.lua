@@ -10,3 +10,15 @@ hooksecurefunc("WorldMap_ToggleSizeUp", function(self)
 	BlackoutWorld:Hide()
 	WorldMapFrame:SetAttribute("UIPanelLayout-area", "center")
 end)
+
+if WorldMapFrame:IsVisible() then
+	ToggleFrame(WorldMapFrame)
+
+	BlackoutWorld:Hide()
+	WorldMapFrame:SetAttribute("UIPanelLayout-area", "center")
+	WorldMapFrame:SetScale(0.75)
+	WorldMapFrame:EnableKeyboard(false)
+	WorldMapFrame:EnableMouse(false)
+
+	ToggleFrame(WorldMapFrame)
+end
