@@ -2,7 +2,7 @@
 ## Title: tekMapEnhancer
 ## Notes: Fullscreen map sucks!
 ## Author: Tekkub Stoutwrithe
-## Version: Alpha
+## Version: 4.1.0.3
 
 ## LoadManagers: AddonLoader
 ## X-LoadOn-Always: delayed
