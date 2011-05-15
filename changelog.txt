@@ -1,3 +1,7 @@
+4.1.0.3-Beta
+    Fix if map is displayed before addon loads
+    Fix issues after toggling to smaller map mode
+
 3.0.2.2-Release
     Typos suck too
 
